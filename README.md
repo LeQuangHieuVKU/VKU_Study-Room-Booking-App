@@ -11,7 +11,7 @@
 
 - **Student:** Lê Quang Hiếu — Student ID: 23IT.B056 — Role: Individual Developer — Contribution: 100%
 - **Live Demo URL:** [Expo Go URL / APK Download Link]
-- **GitHub Repository:** [https://github.com/username/your-repo-name]
+- **GitHub Repository:** https://github.com/LeQuangHieuVKU/VKU_Study-Room-Booking-App
 - **Video Demo (Optional):** [https://youtu.be/xxx]
 
 The application is a mobile-first Expo and React Native prototype for discovering VKU study rooms, checking availability, booking a time slot, and presenting a QR access pass.
